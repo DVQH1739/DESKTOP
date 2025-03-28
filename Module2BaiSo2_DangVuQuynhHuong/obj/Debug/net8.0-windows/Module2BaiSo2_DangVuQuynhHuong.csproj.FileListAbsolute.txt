@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\bin\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.exe
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\bin\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.deps.json
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\bin\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.runtimeconfig.json
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\bin\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.dll
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\bin\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.pdb
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module1BaiSo2_DangVuQuynhHuong.frmBaiTap1.resources
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.sourcelink.json
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.dll
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\refint\Module2BaiSo2_DangVuQuynhHuong.dll
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.pdb
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\Module2BaiSo2_DangVuQuynhHuong.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DESKTOP\31231021739_Đặng Vũ Quỳnh Hương_Tuần 2\Module2BaiSo2_DangVuQuynhHuong\obj\Debug\net8.0-windows\ref\Module2BaiSo2_DangVuQuynhHuong.dll
